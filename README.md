@@ -1,4 +1,5 @@
-# in transit of planned materials
+# In transit of planned materials
+# Inventory and Material Analysis Automation
 
 ## Project Overview
 
